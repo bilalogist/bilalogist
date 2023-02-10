@@ -3,8 +3,8 @@
 
 A Developer having interest in Mobile Application(Flutter) ,Backend Web (Node Js), Frontend Web (React JS) development.
 - 🔭 I am a graduate from COMSATS University Islamabad, Lahore Campus.
-- 🌱 I’m currently learning Node JS, ReactJS, Flutter.
-- 🥅 <b>2023 Goals:</b> Learn VueJs.
+- 🌱 Currently working as Full Stack Engineer at Nextbridge Pvt Ltd
+- 🌱 I’m currently learning Microservices in Node Js and Typescript
 
 **Languages:**
 
