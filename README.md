@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammad Bilal Nasir - 👋,
 <a href="https://portfolio-bilalnasir.web.app"> My portfolio </a>
 
-A Developer having interest in Mobile Application(Flutter) ,Backend Web (Node Js), Frontend Web (React JS) development.
+A Developer having interest in Backend Web (Node Js), Frontend Web (React JS) development.
 - 🔭 I am a graduate from COMSATS University Islamabad, Lahore Campus.
 - 🌱 Currently working as Full Stack Engineer at Nextbridge Pvt Ltd
 - 🌱 I’m currently learning Microservices in Node Js and Typescript
