@@ -13,7 +13,6 @@ A Developer having interest in Backend Web (Node Js), Frontend Web (React JS) de
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/graphql.svg"></code>
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
-<code><img height="30" src="https://i7.pngguru.com/preview/170/924/985/microsoft-sql-server-microsoft-azure-sql-database-microsoft.jpg"></code>
 <code><img height="30" src="https://i.pinimg.com/originals/bb/72/c8/bb72c84af959c4689e0bae3bfed496f5.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
 
