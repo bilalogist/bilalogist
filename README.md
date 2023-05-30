@@ -1,9 +1,11 @@
-### Hi there, I'm Muhammad Bilal Nasir - 👋,
+### Hi! I'm Muhammad Bilal Nasir - 👋,
 
-A Developer having interest in Backend Web (Node Js), Frontend Web (React JS) development.
+## Leaving Footprints in the Digital Landscape ‎️‍🔥
+
+
+A Developer having interest in Full Stack Development (React,Node, Express, Mongo, SQL).
 - 🔭 I am a graduate from COMSATS University Islamabad, Lahore Campus.
 - 🌱 Currently working as Full Stack Engineer at Nextbridge Pvt Ltd
-- 🌱 I’m currently learning Microservices in Node Js and Typescript
 
 **Languages:**
 
@@ -18,3 +20,8 @@ A Developer having interest in Backend Web (Node Js), Frontend Web (React JS) de
 
 </details>
 <img src="https://komarev.com/ghpvc/?username=bilalogist&label=Profile%20views&color=0e75b6&style=flat" alt="bilal" />
+
+Lets connect through:
+
+- Email: bilalogist@gmail.com
+- LinkedIn: [Muhammad Bilal Nasir](https://www.linkedin.com/in/bilalogist)
