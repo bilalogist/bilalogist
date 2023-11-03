@@ -5,7 +5,7 @@
 
 A Developer having interest in Full Stack Development (React,Node, Express, Mongo, SQL).
 - 🔭 I am a graduate from COMSATS University Islamabad, Lahore Campus.
-- 🌱 Currently working as Full Stack Engineer at Nextbridge Pvt Ltd
+- 🌱 Currently working as Full Stack Engineer at Nextbridge Ltd
 
 **Languages:**
 <div dir="auto"><br/>
