@@ -25,4 +25,3 @@ A Developer having interest in Full Stack Development (React,Node, Express, Mong
 Lets connect through:
 
 - Email: bilalogist@gmail.com
-- LinkedIn: [Muhammad Bilal Nasir](https://www.linkedin.com/in/bilalogist)
