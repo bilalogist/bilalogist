@@ -1,4 +1,4 @@
-### Hi! I'm Nasir M - 👋,
+### Hi! I'm Muhammad Bilal Nasir - 👋,
 
 ## Leaving Footprints in the Digital Landscape ‎️‍🔥
 
